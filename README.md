@@ -5,9 +5,9 @@ Date:  2/17/2019
 
 Overview
 
-Obesity is becoming a Global trend.  It was requested to identify if the countries with the Happiest people in the World also have a higher concentration of obese Adults.
+Obesity is becoming a Global trend.  It was requested to identify if the countries with the Happiest people in the World also have a higher concentration of obese adults.
 1)	 Is there a correlation across countries between the percentage of obese Adults and the overall Happiness score.  
-2)	How does the country’s percentage of obese Adults compare with the Healthy Life Expectancy score.  Do we feel obesity is accounted for in this score.
+2)	How does the country’s percentage of obese adults compare with the Healthy Life Expectancy score.  Do we feel obesity is accounted for in this score.
 
 https://www.hsph.harvard.edu/obesity-prevention-source/obesity-trends/
 
@@ -18,8 +18,8 @@ EXTRACT : Data Sources
 
 
 Data Extraction: World Bank Indicators 
-•	Prevalence of overweight / obesity (% of adults) : SH.STA.OWAD.ZS   (year=2016)
-•	Domestic general government health expenditure per capita (current US$): SH.XPD.GHED.PP.CD (year=2015)
+•	Prevalence of overweight / obesity (% of adults) : SH.STA.OWAD.ZS   (year=2016)  <br>
+•	Domestic general government health expenditure per capita (current US$): SH.XPD.GHED.PP.CD (year=2015) <br>
 •	https://data.worldbank.org/indicator (Indicators)
 
 File Type / Extraction Method
