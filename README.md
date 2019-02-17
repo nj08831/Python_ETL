@@ -1,13 +1,13 @@
 # Python_ETL
 
-ETL Assignment: Data Science Bootcamp
-Date:  2/16/2019
+ETL Project:  Are the Happiest Countries Obese Countries?
+Date:  2/17/2019
 
 Overview
 
 Obesity is becoming a Global trend.  It was requested to identify if the countries with the Happiest people in the World also have a higher concentration of obese Adults.
 1)	 Is there a correlation across countries between the percentage of obese Adults and the overall Happiness score.  
-2)	How does the country’s percentage of obese Adults compare with the Healthy Life Expectancy score.  Do we feel obesity is accounted for in this Score.
+2)	How does the country’s percentage of obese Adults compare with the Healthy Life Expectancy score.  Do we feel obesity is accounted for in this score.
 
 https://www.hsph.harvard.edu/obesity-prevention-source/obesity-trends/
 
@@ -99,14 +99,14 @@ NOTE:
 FINAL DATA FIELDS
 Data columns (total 11 columns): 
 
-country_name 			156 non-null object 
-overall rank 				156 non-null int32
-score 					156 non-null float64 
-gdp_per_capita 			156 non-null float64 
-social_support 			156 non-null float64 
-healthy_life_expectancy 		156 non-null float64 
+country_name 			              156 non-null object 
+overall rank 				             156 non-null int32
+score 					                   156 non-null float64 
+gdp_per_capita 			            156 non-null float64 
+social_support 			            156 non-null float64 
+healthy_life_expectancy 		    156 non-null float64 
 freedom_to_make_life_choices 	156 non-null float64 
-generosity 				156 non-null float64 
-perceptions_of_corruption 		156 non-null float64 
-healthcare_govt_expenditure 	135 non-null float64 
-per_overweight_adults 	
+generosity 				               156 non-null float64 
+perceptions_of_corruption 		  156 non-null float64 
+healthcare_govt_expenditure 	 135 non-null float64 
+per_overweight_adults 	       140 non-null float64 
